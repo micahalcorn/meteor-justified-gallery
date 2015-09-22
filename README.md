@@ -5,6 +5,8 @@ This Meteor package allows you to include the incredible [Justified Gallery plug
 
 Requires: `jquery` & `less` packages
 
+**Now requires LESS 2, which ships with Meteor 1.2**
+
 ## Installation
 
 ```bash

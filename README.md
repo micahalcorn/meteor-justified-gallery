@@ -3,9 +3,9 @@ meteor-justified-gallery
 
 This Meteor package allows you to include the incredible [Justified Gallery plugin by @miromannino](https://github.com/miromannino/Justified-Gallery) for client-side use.
 
-Requires: `jquery` & `less` packages
+Requires: `jquery` package
 
-**Now requires LESS 2, which ships with Meteor 1.2**
+Includes: <a href="https://brutaldesign.github.io/swipebox/">jQuery Swipebox plugin</a> (but not currently Colorbox)
 
 ## Installation
 

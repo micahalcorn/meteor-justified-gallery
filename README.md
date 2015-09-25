@@ -15,6 +15,8 @@ $ meteor add micah:justified-gallery
 
 ## Usage
 
+***See an example application using this package [here](http://github.com/micahalcorn/meteor-justified-gallery-example).***
+
 Check out the [examples](http://miromannino.github.io/Justified-Gallery/getting-started/) and [documentation](http://miromannino.github.io/Justified-Gallery/options-and-events/) for the jQuery plugin.
 
 One note is that your images must each be nested in an anchor tag within the containing div.
@@ -55,4 +57,3 @@ $('#gallery').justifiedGallery({
 ## Contributing
 
 This is my first Meteor package, so please feel free to jump in and offer direction or pull requests.
-

@@ -26,4 +26,3 @@ Package.onTest(function (api) {
   api.use('tinytest@1.0.0');
   api.addFiles(['justified-gallery-tests.js'], 'client');
 });
-
